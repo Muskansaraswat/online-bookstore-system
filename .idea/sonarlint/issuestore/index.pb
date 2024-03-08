@@ -1,0 +1,23 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+e
+5src/main/java/com/bookshelf/bookstore/model/User.java,b\0\b08fffdcd17f979c3343a74a48679694c6115145
+f
+6src/main/java/com/bookshelf/bookstore/dao/UserDao.java,7\5\75184f0c2e084494a5cf50f725f042659bac35c4
+n
+>src/main/java/com/bookshelf/bookstore/service/UserService.java,a\4\a4307f9140a00c874088d75fc5c1783ab3d3701d
+n
+>src/main/java/com/bookshelf/bookstore/manager/UserManager.java,2\0\20fc3ab6dff1d7242ccdb1eaa7d0d90402f1d410
+t
+Dsrc/main/java/com/bookshelf/bookstore/config/SpringJerseyConfig.java,8\6\8698100be3c025226e85dc02bd76b1480678f85a
+O
+src/main/webapp/WEB-INF/web.xml,2\e\2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+^
+.src/main/webapp/WEB-INF/applicationcontext.xml,b\a\baca09eabe8c0768fe534c31fdfbc29eecda90c6
+^
+.src/main/webapp/WEB-INF/applicationContext.xml,0\9\098550351661f776bec95040b2d50042c4599987
+j
+:src/main/java/com/bookshelf/bookstore/dao/UserDaoImpl.java,4\2\42b2199ea7cc328b6227077f212264747180f111
+r
+Bsrc/main/java/com/bookshelf/bookstore/manager/UserManagerImpl.java,8\9\8972e0a575a235531c8c0f79b7ab4278f0d501a6
